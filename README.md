@@ -87,7 +87,7 @@ The app will be available at: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🪠 Example Usage
+## Example Usage
 
 1. Open the app
 2. Enter a valid GitHub username 
